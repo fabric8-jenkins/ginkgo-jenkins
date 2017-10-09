@@ -1,0 +1,3 @@
+package: github.com/fabric8-jenkins/ginkgo-jenkins
+import:
+- package: github.com/fabric8io/golang-jenkins
